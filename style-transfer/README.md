@@ -2,7 +2,11 @@
 
 A deep learning project that turns landscape photos into artwork by combining the **content** of one image with the **style** of another, using a pre-trained **VGG19** network as a feature extractor.
 
-Course project for *Deep Learning (AI3202)*, Department of Computer Science & Artificial Intelligence, Umm Al-Qura University — 2nd semester 2026.
+Course project for *Deep Learning (AI3202)*, Department of Computer Science & Artificial Intelligence, Umm Al-Qura University — 2nd semester 2026. Supervised by Dr. Balsam Khojah.
+
+📄 **Full report:** [DL_Report.pdf](DL_Report.pdf)
+
+**Team:** Danah Aldadi · Meran Aldaadi · Esraa Al Awam · Retal Alhulayfi · Sadeem Alsulami
 
 ## How it works
 
